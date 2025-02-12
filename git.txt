@@ -1,0 +1,6 @@
+ git init
+git remote add origin https://github.com/developerpalakbasak/social-media-backend.git
+git branch -M main
+ git add .
+git commit -m "message: added new post feature"  
+git push -u origin main
